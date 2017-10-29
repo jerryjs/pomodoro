@@ -2,7 +2,7 @@
   "name": "pomodoro",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Olga Filipova <chudaol@gmail.com>",
+  "author": "Jerry Johnson <jerryjohnson95762@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
